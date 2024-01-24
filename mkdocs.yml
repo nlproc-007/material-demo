@@ -34,8 +34,8 @@ theme:
       accent: lime
 
 plugins:
-  - blog
   - search
+  - blog
 
 extra:
   social:
@@ -75,9 +75,10 @@ copyright: |
 nav:
   - 'Artificial Intelligence': 
       - '🧱 Introduction 🧱': 
-          - 'AI': 'Artificial Intelligence/AI.md'
-          - 'Discriminative AI' : 'Artificial Intelligence/Discriminative AI.md'
-          - 'Generative AI' : 'Artificial Intelligence/Generative AI.md'
+          - Introduction/index.md  
+          - 'AI': 'Introduction/AI.md'
+          - 'Discriminative AI' : 'Introduction/Discriminative AI.md'
+          - 'Generative AI' : 'Introduction/Generative AI.md'
 
   - 'Deep Learning':
      - 'Foundations':
